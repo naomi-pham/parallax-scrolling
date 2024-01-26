@@ -1,7 +1,7 @@
-import { Space_Mono } from "next/font/google";
+import { Merriweather } from "next/font/google";
 import "~/styles/globals.css";
 
-const spaceMono = Space_Mono({
+const merriweather = Merriweather({
   weight: ["400", "700"],
   subsets: ["latin"],
 });
@@ -18,7 +18,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${spaceMono.className} bg-[#FFF0F3] text-zinc-800`}>
+      <body className={`${merriweather.className} bg-brown-100 text-brown-800`}>
         {children}
       </body>
     </html>

@@ -1,6 +1,6 @@
-export interface IPoem {
+export interface IPost {
   id: number;
+  image: string;
   title: string;
-  author: string;
   content: string;
 }

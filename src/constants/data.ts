@@ -1,25 +1,23 @@
-const PoemData = [
+export const PostListData = [
   {
     id: 0,
-    title: "The Happiness",
-    author: "The Happiness",
+    image: "/image-1.png",
+    title: "Lorem ipsum dolor sit.",
     content:
-      "<p>There's a happiness, a joy <br/> in one soul, that's been <br/> buried alive in everyone <br/> and forgotten. <br/> <br/> It isn't your barroom joke <br/> or tender, intimate humor <br/> or affections of friendliness <br/> or big, bright pun. <br/> <br/> They're the surviving survivors <br/> of what happened when happiness <br/> was buried alive, when <br/> it no longer looked out <br/> <br/> of today's eyes, and doesn't <br/> even manifest when one <br/> of us dies, we just walk away <br/> from everything, alone <br/> <br/> with what's left of us, <br/> going on being human beings <br/> without being human, <br/> without that happiness. <br/> </p>",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur.",
   },
   {
     id: 1,
-    title: "The Happiness",
-    author: "The Happiness",
+    image: "/image-1.png",
+    title: "Lorem ipsum dolor sit.",
     content:
-      "<p>There's a happiness, a joy <br/> in one soul, that's been <br/> buried alive in everyone <br/> and forgotten. <br/> <br/> It isn't your barroom joke <br/> or tender, intimate humor <br/> or affections of friendliness <br/> or big, bright pun. <br/> <br/> They're the surviving survivors <br/> of what happened when happiness <br/> was buried alive, when <br/> it no longer looked out <br/> <br/> of today's eyes, and doesn't <br/> even manifest when one <br/> of us dies, we just walk away <br/> from everything, alone <br/> <br/> with what's left of us, <br/> going on being human beings <br/> without being human, <br/> without that happiness. <br/> </p>",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur.",
   },
   {
     id: 2,
-    title: "The Happiness",
-    author: "The Happiness",
+    image: "/image-1.png",
+    title: "Lorem ipsum dolor sit.",
     content:
-      "<p>There's a happiness, a joy <br/> in one soul, that's been <br/> buried alive in everyone <br/> and forgotten. <br/> <br/> It isn't your barroom joke <br/> or tender, intimate humor <br/> or affections of friendliness <br/> or big, bright pun. <br/> <br/> They're the surviving survivors <br/> of what happened when happiness <br/> was buried alive, when <br/> it no longer looked out <br/> <br/> of today's eyes, and doesn't <br/> even manifest when one <br/> of us dies, we just walk away <br/> from everything, alone <br/> <br/> with what's left of us, <br/> going on being human beings <br/> without being human, <br/> without that happiness. <br/> </p>",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur.",
   },
 ];
-
-export default PoemData;
